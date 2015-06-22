@@ -6,6 +6,7 @@
 
 ```bash
 git clone https://github.com/opencontainers/runc
+cd runc
 make
 sudo make install
 ```
